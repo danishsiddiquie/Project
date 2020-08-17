@@ -1,1 +1,4 @@
+# Data
 
+To get started, I have two cleaned data sets, train_movies.csv and test_movies.csv. These have had significant processing done to them - randomly sampling only 10,000 users, and cutting down the movies to only the most popular, specifically those with over 5000 ratings in the data set to make the analyses more computationally tractable. Both data sets are in a wide format - each row is a user, each column is a movie, and entries are ratings. Movies that have not been rated have a null value. I have also prefaced the movieIds with ‘mId’ to avoid problems with naming columns starting with numbers.
+I will be using the training data to train the model, making modeling decisions, and estimating future performance. Then, I will use the test data to evaluate how well my model works in practice.
