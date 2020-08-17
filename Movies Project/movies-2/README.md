@@ -1,3 +1,9 @@
+# Objective
+
+In the previous movie project (Movies-1), I explored a content based approach, predicting a rating for a user based on similar movies they had rated. In this project, I've explored the other possibility, a collaborative filtering approach, in which I predict a user based on similar users. Here we will consider predicting whether a user has seen (rated) a movie or not based on their similarity to similar users. This has the advantage of there being no missing data - by virtue of no rating being present, it tells us the user has not seen the movie. We will think from the perspective of using it on users who have not yet seen a movie to predict whether they would watch it given the opportunity.
+The scenario is the following: You for a video rental service where users pay $3 to digitally rent The Princess Bride (TPB) for 24 hours. After paying for internet bandwidth and the movie royalties, you stand to make $0.5 profit on each user that watches TPB. We have access to user’s viewing history, knowing exactly which movies they have seen. You can send an ad for $0.20 to specific users. You would like a strategy to target specific users who have not yet watched TPB to maximize your profit.
+
+
 # Data
 
 To get started, I have two cleaned data sets, train_movies.csv and test_movies.csv. These have had significant processing done to them - randomly sampling only 10,000 users, and cutting down the movies to only the most popular, specifically those with over 5000 ratings in the data set to make the analyses more computationally tractable. Both data sets are in a wide format - each row is a user, each column is a movie, and entries are ratings. Movies that have not been rated have a null value. I have also prefaced the movieIds with ‘mId’ to avoid problems with naming columns starting with numbers.
