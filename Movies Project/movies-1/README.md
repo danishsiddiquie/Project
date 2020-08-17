@@ -8,4 +8,10 @@ The data I used comes from MovieLens, a movie recommendation service. It contain
 ‘MovieGenome.csv’ contains data about how strongly movies exhibit each genome. The genome score was computed using a machine learning algorithm on user-contributed content including tags, ratings, and textual reviews. The structure is a dense matrix, meaning every movie in the genome has a value for every one of the 1,128 tags in the genome. This has the hilarious impact of Pixar’s “Toy Story” being 1.9% about vampire-human love, 2% neo-nazis, and 1.8% Jane Austen.
 
 
-### _Analysis and Insights (along with the code) will be found in movies.md as a Markdown Report._
+## Contents of the folder
+
+- **movies.rmd:** R code
+- **movies.md:** Markdown report having the code as well as the analysis
+- **datasets:** Data sets used in the project
+- **movies_files:** Supplementary graphs for the markdown
+
