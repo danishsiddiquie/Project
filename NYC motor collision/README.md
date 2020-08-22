@@ -28,4 +28,15 @@ advantage of by the recording of this data. Overall, our analysis does not have 
 
 ## Authors
 
-- Danish Siddiqiuie
+### Danish Siddiquie
+
+- Operations Research Major, **_Columbia University in the City of New York_**
+- Data Analytics Major, Math Minor, **_Denison University, Ohio_**
+
+### Alex Barnes 
+
+- Data Analytics Major, **_Denison University, Ohio_**
+
+### Drake Horton
+
+- Data Analyst, CUNA Mutual Group 
