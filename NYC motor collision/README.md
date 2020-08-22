@@ -25,3 +25,7 @@ an accident quickly in those areas. Tourists also may be interested in knowing w
 increase in accidents at varying locations. We followed all of the rules when it comes to ethical research. The dataset is a public dataset that is shared by the 
 NYPD so there is consent and respect for anonymity. There was no harm done by the collectors of the data. Vulnerable groups of  people are not affected or taken 
 advantage of by the recording of this data. Overall, our analysis does not have any ethical concerns since all ethical guidelines were met.
+
+## Authors
+
+- Danish Siddiqiuie
