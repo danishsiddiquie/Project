@@ -1,30 +1,10 @@
-## Introduction
+## Introduction: Polarization in congress: Assumptions vs Analysis
 
-The purpose of this research is to determine what factors might lead to an accident in New York city.   In our research we had a lot of various variables that 
-provided information, such as: 
-- how an accident occurred
-- what time the accident took place
-- when it happened
-and some other important parts of the accidents.  The data was easily wrangled in order to perform our analysis due to the collection and distribution of the data by the New York city database.  The dataset was pulled from:
+Polarization in Congress is not new, but depending on where you start counting polarization among members of the two parties in Congress has increased at an explosive rate since the 1940s and shows no signs of slowing down. Media coverage and scholarly analysis of this phenomenon, while abundant, lacks consensus as to the causes and consequences of polarization. To be sure, this is a complicated puzzle, but one which is deserving of continued attention and data driven analysis. In this project we will utilize a greatly expanded universe of data and measures to drill deeper into congressional polarization. We will use skills with a particular focus on using polished visuals and especially regression models to evaluate claims related to polarization. 
 
-```
-[New York City Open data] (http://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95) website.  
-```
-
-The data is constantly updated with the most recent information from the previous day.  For our data we used the data that was from before November 25, 2017 and after January 1, 2013.
-
-The analysis we were able to do on the data mainly relied on the columns that had the data about the causes of the accidents, the time data for each of the 
-accidents, and where the accidents took place.   With this data we were able to determine that factors such as pedestrian confusion and unsafe speed could lead 
-to a higher risk of death or injury.    
-
-## Ethical Consideration
-
-Stakeholders in our data analysis include a wide arrange of people. The New York City Government and NYPD might want to know which areas of the city are more 
-dangerous and have the most accidents so that they can attempt to change the layout of traffic in that area or have police units prepared to stop or respond to 
-an accident quickly in those areas. Tourists also may be interested in knowing which areas to try and avoid driving through or touring around since there is an 
-increase in accidents at varying locations. We followed all of the rules when it comes to ethical research. The dataset is a public dataset that is shared by the 
-NYPD so there is consent and respect for anonymity. There was no harm done by the collectors of the data. Vulnerable groups of  people are not affected or taken 
-advantage of by the recording of this data. Overall, our analysis does not have any ethical concerns since all ethical guidelines were met.
+## Objective
+To investigate the correlates and causes of polarization since World War II. 
+Objective is to produce a report that can be distributed to members of congress, their staff, and interested constituents. This report should be professional, accessible, data driven with visuals and statistical analysis, and polished so that it is ready for consumption (i.e., no code, polished prose, good visuals, solid formatting, and appropriate analysis). Your team has been working on collecting readily available data that might be of value and has provided you with single data file, a rough codebook, and "preliminaries" section (see below) that will help you review, extend, and become familiar with the data and relevant techniques that the members of congress identified as appropriate for the report's audience. 
 
 ## Authors
 
@@ -33,10 +13,10 @@ advantage of by the recording of this data. Overall, our analysis does not have 
 - Operations Research Major, **_Columbia University in the City of New York_**
 - Data Analytics Major, Math Minor, **_Denison University, Ohio_**
 
-### Alex Barnes 
+### Yuchen Hua
 
 - Data Analytics Major, **_Denison University, Ohio_**
 
-### Drake Horton
+### Freddie Ortiz
 
-- Data Analyst, CUNA Mutual Group 
+- Data Analytics Major, **_Denison University, Ohio_**
